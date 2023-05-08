@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/korchel/React-Movies/static/css/main.954e7325.css",
+    "main.js": "/korchel/React-Movies/static/js/main.ad45c1c0.js",
+    "index.html": "/korchel/React-Movies/index.html",
+    "main.954e7325.css.map": "/korchel/React-Movies/static/css/main.954e7325.css.map",
+    "main.ad45c1c0.js.map": "/korchel/React-Movies/static/js/main.ad45c1c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.954e7325.css",
+    "static/js/main.ad45c1c0.js"
+  ]
+}
