@@ -1,3 +1,4 @@
+import React from 'react'
 const Movie = (props) => {
 	const {Title: title, Year: year, Type: type, Poster: poster, imbdID: id} = props;
 	

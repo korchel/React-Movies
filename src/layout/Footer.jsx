@@ -1,3 +1,4 @@
+import React from 'react'
 const Footer = () => {
     return (
         <footer className="page-footer light-green lighten-2">    
