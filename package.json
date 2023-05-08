@@ -2,7 +2,7 @@
   "name": "react-movies",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/korchel/react-movies",
+  "homepage": "https://github.io/korchel/react-movies",
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
